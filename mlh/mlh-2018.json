@@ -1,0 +1,1562 @@
+[
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/803/thumb/lhdsplash.png?1510005022",
+        "city": "Everywhere",
+        "dateEnd": "2016-12-02",
+        "dateStart": "2016-12-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/803/thumb/lhdlogo.png?1510005022",
+        "name": "Local Hack Day",
+        "state": "Worldwide",
+        "website": "https://localhackday.mlh.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/687/thumb/hackmty_splash.png?1500043316",
+        "city": "Monterrey",
+        "dateEnd": "2017-08-27",
+        "dateStart": "2017-08-26",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/687/thumb/hackmty_logo.png?1500043316",
+        "name": "HackMTY",
+        "state": "MX",
+        "website": "http://hackmty.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/696/thumb/MedHacks_Logo-06.jpg?1500587443",
+        "city": "Baltimore",
+        "dateEnd": "2017-09-10",
+        "dateStart": "2017-09-08",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/696/thumb/MedHacks_Logo-04.jpg?1500587443",
+        "name": "MedHacks",
+        "state": "MD",
+        "website": "http://medhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/722/thumb/pennapps_splash.jpeg?1502659980",
+        "city": "Philadelphia",
+        "dateEnd": "2017-09-10",
+        "dateStart": "2017-09-08",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/722/thumb/pennapps_spylogo.png?1502659979",
+        "name": "PennApps",
+        "state": "PA",
+        "website": "http://2017f.pennapps.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/684/thumb/bigred_splash.png?1500042878",
+        "city": "Ithaca",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-15",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/684/thumb/bigred_logo.png?1500042878",
+        "name": "BigRed//Hacks",
+        "state": "NY",
+        "website": "https://bigredhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/693/thumb/1311a958833a-Image.jpg?1500306839",
+        "city": "Waterloo",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-15",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/693/thumb/18519751_1810460902313819_2772441558220430124_n.png?1500306839",
+        "name": "Hack the North",
+        "state": "ON",
+        "website": "https://hackthenorth.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/711/thumb/HopHacks.png?1501760394",
+        "city": "Baltimore",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-15",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/711/thumb/HopHacksimage.jpg?1501760394",
+        "name": "HopHacks",
+        "state": "MD",
+        "website": "https://hophacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/697/thumb/capitol300x300.jpg?1500606063",
+        "city": "Iowa City",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/697/thumb/UIOWA_Hackathon_logo_2017_100x100.png?1500606063",
+        "name": "HackUIowa",
+        "state": "IA",
+        "website": "http://bigdata.uiowa.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/733/thumb/734254bc929709d3aade9c03e02195e57f9824d5.jpeg?1504629957",
+        "city": "Vancouver",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/733/thumb/lumohacks_logo.jpg?1503507335",
+        "name": "lumohacks",
+        "state": "BC",
+        "website": "http://lumohacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/716/thumb/ramhacks_bg.jpg?1502208425",
+        "city": "Richmond",
+        "dateEnd": "2017-09-17",
+        "dateStart": "2017-09-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/716/thumb/ramhacks_logo.jpg?1502208424",
+        "name": "RamHacks",
+        "state": "VA",
+        "website": "http://ramhacks.vcu.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/680/thumb/hackrice_splash.png?1500042524",
+        "city": "Houston",
+        "dateEnd": "2017-09-24",
+        "dateStart": "2017-09-22",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/680/thumb/hackrice_logo.png?1500042524",
+        "name": "HackRice",
+        "state": "TX",
+        "website": "http://hack.rice.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/689/thumb/Splash_Image.png?1500047691",
+        "city": "Ann Arbor",
+        "dateEnd": "2017-09-24",
+        "dateStart": "2017-09-22",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/689/thumb/Profile_Picture.png?1500047690",
+        "name": "MHacks X",
+        "state": "MI",
+        "website": "https://mhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/698/thumb/HackStatebackground.jpg?1500641141",
+        "city": "Starkville",
+        "dateEnd": "2017-09-24",
+        "dateStart": "2017-09-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/698/thumb/HackState.png?1500641141",
+        "name": "HackState",
+        "state": "MS",
+        "website": "http://hackstate.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/743/thumb/flower300x300.png?1504282494",
+        "city": "Akron",
+        "dateEnd": "2017-09-24",
+        "dateStart": "2017-09-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/743/thumb/hakronsmalllogo.png?1504282494",
+        "name": "HAkron",
+        "state": "OH",
+        "website": "http://hakron.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/715/thumb/splash_1_.png?1502205705",
+        "city": "West Lafayette",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-29",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/715/thumb/bm_logo_mlh-01.png?1502205705",
+        "name": "BoilerMake",
+        "state": "IN",
+        "website": "https://boilermake.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/704/thumb/damonteucmercedcob2.jpg?1501517147",
+        "city": "Merced",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-29",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/704/thumb/100by300.png?1501517146",
+        "name": "HackMerced",
+        "state": "CA",
+        "website": "https://hackmerced.com"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/714/thumb/shell_bg_mlh.png?1502125405",
+        "city": "Miami",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-29",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/714/thumb/shell_small_mlh.png?1502125405",
+        "name": "ShellHacks",
+        "state": "FL",
+        "website": "https://shellhacks.net/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/708/thumb/mlh_dh_back.png?1501594753",
+        "city": "Raleigh",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/708/thumb/mlh_dh_logo.png?1501594753",
+        "name": "DiamondHacks",
+        "state": "NC",
+        "website": "https://www.ncsudiamondhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/699/thumb/EduSplash.png?1500724057",
+        "city": "Vancouver",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/699/thumb/EduHacksLogo.jpg?1500724057",
+        "name": "EduHacks",
+        "state": "BC",
+        "website": "https://eduhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/707/thumb/Grizzhacksmlh2.png?1501524427",
+        "city": "Rochester",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/707/thumb/GrizzHacksmlh.png?1501524427",
+        "name": "GrizzHacks 2",
+        "state": "MI",
+        "website": "http://grizzhacks.com/#"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/713/thumb/hackutasplash.png?1502125083",
+        "city": "Arlington",
+        "dateEnd": "2017-10-01",
+        "dateStart": "2017-09-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/713/thumb/uta_lgoo.png?1506029129",
+        "name": "HackUTA",
+        "state": "TX",
+        "website": "http://hackuta.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/720/thumb/calhacksbackground.png?1502914939",
+        "city": "Berkeley",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/720/thumb/calhackslogoddoski100x.png?1502914939",
+        "name": "Cal Hacks 4.0",
+        "state": "CA",
+        "website": "https://calhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/718/thumb/KHE_Splash.png?1502208953",
+        "city": "Kent",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/718/thumb/KHE_Logo.png?1502208953",
+        "name": "Kent Hack Enough",
+        "state": "OH",
+        "website": "https://khe.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/735/thumb/WCCwallpaper_3_ver.3_%281%29.png?1503583874",
+        "city": "Ensenada",
+        "dateEnd": "2017-10-07",
+        "dateStart": "2017-10-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/735/thumb/WCCminiatura_ver.2_%281%29.png?1503583874",
+        "name": "WeCanCode Hackathon",
+        "state": "MX",
+        "website": "http://wecancode.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/749/thumb/hack_nau_splash.jpeg?1504719882",
+        "city": "Houston",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/749/thumb/hack_NAU_logo.png?1504719882",
+        "name": "hackNAU",
+        "state": "TX",
+        "website": "http://hacknau.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/686/thumb/umbcbackgrund.png?1501788740",
+        "city": "Baltimore",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/686/thumb/hackumbc_logo.jpeg?1500043231",
+        "name": "HackUMBC",
+        "state": "MD",
+        "website": "http://hackumbc.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/745/thumb/mlh_background_300x300__1_.jpg?1504283043",
+        "city": "Orlando",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/745/thumb/mlh-100x100-kh-logo__1_.png?1504283042",
+        "name": "Knight Hacks",
+        "state": "FL",
+        "website": "http://knighthacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/744/thumb/mh.png?1504282636",
+        "city": "Madison",
+        "dateEnd": "2017-10-08",
+        "dateStart": "2017-10-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/744/thumb/mh.png?1504282636",
+        "name": "MadHacks",
+        "state": "WI",
+        "website": "https://www.madhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/692/thumb/Numerical_Poster.png?1500067679",
+        "city": "Atlanta",
+        "dateEnd": "2017-10-15",
+        "dateStart": "2017-10-13",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/692/thumb/pasted_image_at_2017_02_20_10_24_pm.png?1500067678",
+        "name": "HackGT",
+        "state": "GA",
+        "website": "https://hack.gt/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/694/thumb/TigerHackscolumns.jpg?1500669909",
+        "city": "Columbia",
+        "dateEnd": "2017-10-15",
+        "dateStart": "2017-10-13",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/694/thumb/tiger_hacks_logo-03.jpg?1500321994",
+        "name": "TigerHacks",
+        "state": "MO",
+        "website": "http://tiger-hacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/731/thumb/contentid_image1502566121688.jpeg?1503438897",
+        "city": "New York",
+        "dateEnd": "2017-10-15",
+        "dateStart": "2017-10-14",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/731/thumb/contentid_image1502566121678.png?1503438897",
+        "name": "hackNY",
+        "state": "NY",
+        "website": "http://hackny.org/hackathon/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/702/thumb/mlh-bg-earth-no-words.jpg?1501082659",
+        "city": "New Brunswick",
+        "dateEnd": "2017-10-15",
+        "dateStart": "2017-10-14",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/702/thumb/hackru-logo-square-gradient-whitebg-bordered.jpg?1501082659",
+        "name": "HackRU",
+        "state": "NJ",
+        "website": "http://www.hackru.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/746/thumb/hh_2017_mlh_splash_300x300_360.png?1504283203",
+        "city": "Cambridge",
+        "dateEnd": "2017-10-22",
+        "dateStart": "2017-10-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/746/thumb/hh_2017_mlh_icon_100x100_360.png?1504283203",
+        "name": "HackHarvard",
+        "state": "MA",
+        "website": "http://hackharvard.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/681/thumb/hackisu_splash.jpg?1500042620",
+        "city": "Ames",
+        "dateEnd": "2017-10-22",
+        "dateStart": "2017-10-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/681/thumb/HackSquirrel_Official_MLH.png?1507304105",
+        "name": "HackISU",
+        "state": "IA",
+        "website": "https://hackisu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/757/thumb/hackJA_logo.png?1505922562",
+        "city": "Edison",
+        "dateEnd": "2017-10-21",
+        "dateStart": "2017-10-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/757/thumb/hackJA_logo.png?1505922562",
+        "name": "hackJA",
+        "state": "NJ",
+        "website": "http://www.hackja.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/709/thumb/Pasted_image_at_2017_07_27_03_09_PM.png?1501611070",
+        "city": "San Diego",
+        "dateEnd": "2017-10-22",
+        "dateStart": "2017-10-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/709/thumb/SD_Hacks.png?1501611070",
+        "name": "SD Hacks",
+        "state": "CA",
+        "website": "https://www.sdhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/683/thumb/vandyhacks_splash.png?1500042805",
+        "city": "Nashville",
+        "dateEnd": "2017-10-22",
+        "dateStart": "2017-10-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/683/thumb/vandyhacks_logo.png?1500042805",
+        "name": "VandyHacks",
+        "state": "TN",
+        "website": "https://vandyhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/710/thumb/DubHacks_Background_New.png?1501791040",
+        "city": "Seattle",
+        "dateEnd": "2017-10-22",
+        "dateStart": "2017-10-21",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/710/thumb/DubHacks_Logo.png?1501685415",
+        "name": "DubHacks",
+        "state": "WA",
+        "website": "http://dubhacks.co/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/759/thumb/Hillman-300x300.jpg?1505923409",
+        "city": "St Louis",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/759/thumb/arch_logo.jpg?1505923409",
+        "name": "ArchHacks 2017",
+        "state": "MO",
+        "website": "https://archhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/738/thumb/Hancock300x300.jpg?1504128184",
+        "city": "Chicago",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/738/thumb/DH100.png?1503933519",
+        "name": "DemonHacks",
+        "state": "IL",
+        "website": "http://demonhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/763/thumb/gunnhacks_splash.jpg?1505924196",
+        "city": "Palo Alto",
+        "dateEnd": "2017-10-28",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/763/thumb/gunnhacks_logo.jpg?1505924196",
+        "name": "GunnHacks 4.0",
+        "state": "CA",
+        "website": "https://gunnhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/750/thumb/ualban.jpg?1504806487",
+        "city": "Torre\u00f3n",
+        "dateEnd": "2017-10-28",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/750/thumb/hack_logo_100.jpg?1504806487",
+        "name": "Hack.The.Tie",
+        "state": "MX",
+        "website": "http://www.hacktt.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/741/thumb/300x_Splash.png?1503938716",
+        "city": "Salt Lake City",
+        "dateEnd": "2017-10-28",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/741/thumb/100x_Logo.png?1503938716",
+        "name": "HackTheU",
+        "state": "UT",
+        "website": "http://hacktheu.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/758/thumb/volhacks_logo.jpg?1505923264",
+        "city": "Knoxville",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/758/thumb/volhacks_splash.png?1505923263",
+        "name": "VolHacks",
+        "state": "TN",
+        "website": "https://volhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/760/thumb/background2.png?1505944426",
+        "city": "Boston",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/760/thumb/BostonHacks_logo.png?1505923738",
+        "name": "BostonHacks",
+        "state": "MA",
+        "website": "https://bostonhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/762/thumb/hackduke_splash.png?1505923932",
+        "city": "Durham",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/762/thumb/hackduke_logo.png?1505923932",
+        "name": "HackDuke: Code for Good",
+        "state": "NC",
+        "website": "http://www.hackduke.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/761/thumb/hacktx_splash.png?1505923815",
+        "city": "Austin",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/761/thumb/hacktx_logo.png?1505923815",
+        "name": "HackTX",
+        "state": "TX",
+        "website": "https://hacktx.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/777/thumb/invent_splash.jpg?1506707948",
+        "city": "New York",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/777/thumb/invent_logo.jpg?1506707948",
+        "name": "Invent YU 2017",
+        "state": "NY",
+        "website": "https://inventyu2017.github.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/705/thumb/splash.png?1502219250",
+        "city": "Toledo",
+        "dateEnd": "2017-10-29",
+        "dateStart": "2017-10-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/705/thumb/smalllogo.png?1502219250",
+        "name": "ToledoHacks  ",
+        "state": "OH",
+        "website": "http://toledohacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/688/thumb/echacks_splash.jpg?1500043427",
+        "city": "Peterborough",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/688/thumb/echacks_logo.png?1500043427",
+        "name": "Electric City Hacks",
+        "state": "ON",
+        "website": "http://2017.echacks.xyz/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/787/thumb/hackgsu_mlh_splash_300.png?1507924484",
+        "city": "Atlanta",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/787/thumb/hackgsu_mlh_logo_100.png?1507924484",
+        "name": "HackGSU",
+        "state": "GA",
+        "website": "http://hackgsu.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/730/thumb/MLH_Splash.jpg?1503430503",
+        "city": "Manhattan",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/730/thumb/MLH_Logo.png?1503430502",
+        "name": "Hack K-State",
+        "state": "KS",
+        "website": "https://hackkstate.tech/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/773/thumb/NCbanner-mlh.png?1506112481",
+        "city": "Chapel Hill",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/773/thumb/hacknclogo.png?1506112481",
+        "name": "HackNC",
+        "state": "NC",
+        "website": "http://hacknc.com"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/679/thumb/hackumass_splash.png?1500042400",
+        "city": "Amherst",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/679/thumb/hackumass_logo.png?1500042400",
+        "name": "HackUMass V",
+        "state": "MA",
+        "website": "http://hackumass.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/765/thumb/wildhacks_splash.jpg?1505924938",
+        "city": "Evanston",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/765/thumb/wildhacks_logo.png?1505924937",
+        "name": "WildHacks",
+        "state": "IL",
+        "website": "https://wildhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/786/thumb/codered-cover-mlh.jpg?1507924390",
+        "city": "Houston",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/786/thumb/codered-icon-mlh.png?1507924389",
+        "name": "CodeRED Exploration",
+        "state": "TX",
+        "website": "https://uhcode.red/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/766/thumb/Hack_AE_Splash_Logo.jpg?1505925648",
+        "city": "Lowell",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/766/thumb/Hack_AE_Small_Logo.jpg?1505925648",
+        "name": "Hack AE",
+        "state": "MA",
+        "website": "http://theaeac.org/events/hackae/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/789/thumb/Hackpsu100x100.jpg?1507924880",
+        "city": "State College",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/789/thumb/Hackpsu100x100.jpg?1507924880",
+        "name": "HackPSU",
+        "state": "PA",
+        "website": "https://hackpsu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/719/thumb/healthhacks_tile.jpg?1507560220",
+        "city": "Richmond",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/719/thumb/HealthHacks_Logo.jpg?1502215592",
+        "name": "HealthHacks",
+        "state": "VA",
+        "website": "http://healthhacks.vcu.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/712/thumb/backblack_paw.jpg?1501786014",
+        "city": "Chicago",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/712/thumb/Huskieblack_paw.png?1501786013",
+        "name": "Huskie Hack for Health & Wellness",
+        "state": "IL",
+        "website": "http://www.huskiehack.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/782/thumb/technicalogo.jpg?1507843406",
+        "city": "College Park",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/782/thumb/technicasplash.png?1507843405",
+        "name": "Technica",
+        "state": "MD",
+        "website": "http://gotechnica.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/752/thumb/Davis_Hall_UB.png?1505159065",
+        "city": "Buffalo",
+        "dateEnd": "2017-11-05",
+        "dateStart": "2017-11-04",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/752/thumb/UB_Hacking_Logo_100x100.png?1505159065",
+        "name": "UB Hacking",
+        "state": "NY",
+        "website": "https://ubhacking.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/756/thumb/princetonsplash.png?1505517288",
+        "city": "Princeton",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/756/thumb/princetonlogo.png?1505517288",
+        "name": "HackPrinceton",
+        "state": "NJ",
+        "website": "https://hackprinceton.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/729/thumb/2004_lhc_lehmancampus_56.jpg?1503422194",
+        "city": "The Bronx",
+        "dateEnd": "2017-11-11",
+        "dateStart": "2017-11-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/729/thumb/nshackathon_logo.png?1503422193",
+        "name": "NS Hackathon",
+        "state": "NY",
+        "website": "https://nshacks.nslehman.com/index.html"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/724/thumb/background.png?1502734506",
+        "city": "Wellesley",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/724/thumb/logo.png?1502812428",
+        "name": "WHACK",
+        "state": "MA",
+        "website": "http://wellesleyhacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/764/thumb/holyoke_splash.jpg?1505924780",
+        "city": "South Hadley",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/764/thumb/holyoke_logo.png?1505924776",
+        "name": "HackHolyoke",
+        "state": "MA",
+        "website": "http://hackholyoke.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/701/thumb/jefferson300.png?1503930608",
+        "city": "Washington",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/701/thumb/100x100.png?1503930608",
+        "name": "Hackital",
+        "state": "DC",
+        "website": "http://hackital.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/721/thumb/hacknjit_splash.jpg?1502387810",
+        "city": "Newark",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/721/thumb/hacknjit_logo.jpeg?1502387809",
+        "name": "Hack NJIT",
+        "state": "NJ",
+        "website": "http://hacknjit.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/685/thumb/hackriddle_splash.png?1500043154",
+        "city": "Daytona Beach",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/685/thumb/hackriddle_logo.png?1500043154",
+        "name": "HackRiddle",
+        "state": "FL",
+        "website": "https://hackriddle.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/767/thumb/hackrpi_splash.png?1505930937",
+        "city": "Troy",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/767/thumb/hackrpi_logo.png?1505930937",
+        "name": "HackRPI",
+        "state": "NY",
+        "website": "https://hackrpi.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/739/thumb/ScarletHacks_300x300_MLH_%281%29.png?1503935880",
+        "city": "Chicago",
+        "dateEnd": "2017-11-12",
+        "dateStart": "2017-11-11",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/739/thumb/ScarletHacks_100x100_MLH_%281%29.png?1503935880",
+        "name": "ScarletHacks",
+        "state": "IL",
+        "website": "http://scarlethacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/783/thumb/hackusu_splash.jpg?1507733084",
+        "city": "Logan",
+        "dateEnd": "2017-11-18",
+        "dateStart": "2017-11-17",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/783/thumb/HackUSUEvent_logo.png?1507733080",
+        "name": "HackUSU",
+        "state": "UT",
+        "website": "https://hackusuevents.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/769/thumb/Hack_Western_4__Splash_.png?1505931647",
+        "city": "London",
+        "dateEnd": "2017-11-19",
+        "dateStart": "2017-11-17",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/769/thumb/Hack_Western_4__Logo_.png?1505931645",
+        "name": "Hack Western",
+        "state": "ON",
+        "website": "https://hackwestern.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/726/thumb/HackRiverDell17_mlh_bg.png?1503070085",
+        "city": "Oradell",
+        "dateEnd": "2017-11-19",
+        "dateStart": "2017-11-18",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/726/thumb/HackRiverDell17_mlh_logo.png?1503070082",
+        "name": "Hack River Dell",
+        "state": "NJ",
+        "website": "http://hackriverdell.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/771/thumb/wit_splash.png?1505932956",
+        "city": "Boston",
+        "dateEnd": "2017-11-19",
+        "dateStart": "2017-11-18",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/771/thumb/wit_logo.jpg?1505932955",
+        "name": "HackWITus",
+        "state": "MA",
+        "website": "http://hackwit.us/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/770/thumb/tecmilogo.png?1505932854",
+        "city": "Monterrey",
+        "dateEnd": "2017-11-19",
+        "dateStart": "2017-11-18",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/770/thumb/tecmilogo.png?1505932854",
+        "name": "Tecmihacks",
+        "state": "MX",
+        "website": "http://www.tecmihacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/808/thumb/yhacksplash.jpg?1510248961",
+        "city": "New Haven",
+        "dateEnd": "2017-12-03",
+        "dateStart": "2017-12-01",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/808/thumb/yhack.png?1510271190",
+        "name": "YHack",
+        "state": "CT",
+        "website": "https://www.yhack.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/804/thumb/lhdsplash.png?1510005074",
+        "city": "Everywhere",
+        "dateEnd": "2017-12-02",
+        "dateStart": "2017-12-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/804/thumb/lhdlogo.png?1510005074",
+        "name": "Local Hack Day",
+        "state": "Worldwide",
+        "website": "https://localhackday.mlh.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/725/thumb/intro.jpg?1502746843",
+        "city": "Miami",
+        "dateEnd": "2017-12-03",
+        "dateStart": "2017-12-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/725/thumb/u.png?1502746842",
+        "name": "UHack",
+        "state": "FL",
+        "website": "http://uhackis.life/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/791/thumb/hackmcst_splash.jpg?1508361465",
+        "city": "Denville",
+        "dateEnd": "2017-12-10",
+        "dateStart": "2017-12-09",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/791/thumb/hackMCST_logo_100x100.png?1508361465",
+        "name": "hackMCST",
+        "state": "NJ",
+        "website": "http://hackmcst.tech/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/813/thumb/dragon_splash.png?1510683217",
+        "city": "Philadelphia",
+        "dateEnd": "2018-01-07",
+        "dateStart": "2018-01-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/813/thumb/dragonhacks_logo.png?1510683216",
+        "name": "DragonHacks 2018",
+        "state": "PA",
+        "website": "http://dragonhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/793/thumb/arizona_splash.jpg?1509064267",
+        "city": "Tucson",
+        "dateEnd": "2018-01-14",
+        "dateStart": "2018-01-12",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/793/thumb/arizona_logo.png?1509064266",
+        "name": "Hack Arizona",
+        "state": "AZ",
+        "website": "http://hackarizona.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/798/thumb/HACKFREE_300X300.png?1509490924",
+        "city": "Manalapan",
+        "dateEnd": "2018-01-14",
+        "dateStart": "2018-01-13",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/798/thumb/HACKFREE_100X100.png?1509490924",
+        "name": "HackFRee",
+        "state": "NJ",
+        "website": "http://www.hackfree.info/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/799/thumb/nwhacks_splash.png?1509491135",
+        "city": "Vancouver",
+        "dateEnd": "2018-01-14",
+        "dateStart": "2018-01-13",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/799/thumb/nwhcks_logo.png?1509491135",
+        "name": "nwHacks",
+        "state": "BC",
+        "website": "https://www.nwhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/816/thumb/cruzhacks_splash.png?1510690738",
+        "city": "Santa Cruz",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/816/thumb/cruzhacks_logo.png?1510690738",
+        "name": "CruzHacks",
+        "state": "CA",
+        "website": "https://cruzhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/847/thumb/PennSplash_%281%29.png?1515092406",
+        "city": "Philadelphia",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/847/thumb/PennAppsLogo__1_.png?1515092406",
+        "name": "PennApps",
+        "state": "PA",
+        "website": "http://2018w.pennapps.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/825/thumb/sb_hacks_splash.jpg?1512078930",
+        "city": "Santa Barbara",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/825/thumb/sb_hacks_logo.png?1512078930",
+        "name": "SB Hacks IV",
+        "state": "CA",
+        "website": "https://www.sbhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/832/thumb/sparta_splash.png?1512593607",
+        "city": "East Lansing",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/832/thumb/Sparta_logo.png?1512593607",
+        "name": "SpartaHack IV",
+        "state": "MI",
+        "website": "https://18.spartahack.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/795/thumb/swamphacks_splash.png?1509110960",
+        "city": "Gainesville",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/795/thumb/swamphacks.png?1509110960",
+        "name": "SwampHacks",
+        "state": "FL",
+        "website": "http://2018.swamphacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/807/thumb/MLHSplash300X300.png?1510169727",
+        "city": "Toronto",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-19",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/807/thumb/MLH_UoftHacks_Logo_100x100.png?1510169726",
+        "name": "U of T Hacks",
+        "state": "Canada",
+        "website": "https://uofthacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/824/thumb/alex-jodoin-140654.jpg?1512078641",
+        "city": "Montreal",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/824/thumb/hackatown_logo1000x10000.png?1512078641",
+        "name": "Hackatown 2018",
+        "state": "QC",
+        "website": "https://hackatown.io/en"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/817/thumb/hack_davis_splash.png?1511879421",
+        "city": "Davis",
+        "dateEnd": "2018-01-21",
+        "dateStart": "2018-01-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/817/thumb/hackdavis_logo.png?1510690999",
+        "name": "HackDavis",
+        "state": "CA",
+        "website": "http://hackdavis.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/818/thumb/fashion_tech_splash.png?1510691235",
+        "city": "Kent",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-26",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/818/thumb/fashion_tech_logo.png?1510691235",
+        "name": "Fashion / Tech Hackathon",
+        "state": "OH",
+        "website": "http://www.fashiontechhackathon.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/801/thumb/mlh_splash-01.png?1509542369",
+        "city": "Washington",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-26",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/801/thumb/hoyahacks_appdog-01.png?1509542369",
+        "name": "Hoya Hacks",
+        "state": "DC",
+        "website": "http://www.hoyahacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/774/thumb/MLH_Splash.jpg?1506548035",
+        "city": "Boston",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-26",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/774/thumb/sheHacksboston_logo_100px_%281%29.jpg?1506548034",
+        "name": "SheHacks",
+        "state": "MA",
+        "website": "http://shehacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/845/thumb/brickhack_splash.jpg?1515009379",
+        "city": "Rochester",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/845/thumb/brickhack_logo.png?1515009378",
+        "name": "BrickHack",
+        "state": "NY",
+        "website": "https://brickhack.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/751/thumb/SPLASH_IMG_2018_MLH.png?1504810407",
+        "city": "Montreal",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/751/thumb/CONUHACKS_LOGO_2017_MLH.png?1504810406",
+        "name": "ConUHacks",
+        "state": "QC",
+        "website": "https://conuhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/796/thumb/delta_splash.jpg?1509118107",
+        "city": "Hamilton",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/796/thumb/delta_logo.png?1509118107",
+        "name": "DeltaHacks IV",
+        "state": "ON",
+        "website": "http://deltahacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/810/thumb/devilsplash.jpg?1510607543",
+        "city": "Gurnee",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/810/thumb/Devil_Pixelslogo.jpg?1510607543",
+        "name": "Devil Hack 1.01",
+        "state": "IL",
+        "website": "https://www.d121.org/Page/408"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/819/thumb/MinneHack_2018_MLH_Splash.png?1510694364",
+        "city": "Minneapolis",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/819/thumb/MH_Logo.png?1510694363",
+        "name": "MinneHack",
+        "state": "MN",
+        "website": "http://minnehack.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/794/thumb/pixel_splash.png?1509110034",
+        "city": "San Mateo",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/794/thumb/pixel_logo.png?1509110034",
+        "name": "PixelHacks II",
+        "state": "CA",
+        "website": "http://pixelhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/821/thumb/tamuhack_splash.png?1510937192",
+        "city": "College Station",
+        "dateEnd": "2018-01-28",
+        "dateStart": "2018-01-27",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/821/thumb/tamuhack_logo.png?1510937191",
+        "name": "TAMUhack",
+        "state": "TX",
+        "website": "http://tamuhack.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/826/thumb/ellehacks_MLH-Splash-4.jpg?1512079210",
+        "city": "Toronto",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/826/thumb/ellehacks_MLH-LOGO.png?1512079210",
+        "name": "Elle Hacks",
+        "state": "ON",
+        "website": "http://ellehacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/844/thumb/mango_splash.png?1515009249",
+        "city": "Miami",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/844/thumb/mango_logo.png?1515009247",
+        "name": "MangoHacks",
+        "state": "FL",
+        "website": "http://mangohacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/814/thumb/pitt-challenge_splash_300x300.png?1510692323",
+        "city": "Pittsburgh",
+        "dateEnd": "2018-02-03",
+        "dateStart": "2018-02-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/814/thumb/pitt-challenge_100x100.png?1510692323",
+        "name": "Pitt Challenge",
+        "state": "PA",
+        "website": "http://pittchallenge.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/822/thumb/QHacksMLHSplash.png?1510937382",
+        "city": "Kingston",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/822/thumb/QHacksMLHLogo.png?1510937382",
+        "name": "QHacks",
+        "state": "ON",
+        "website": "http://qhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/869/thumb/hackpolysplash.jpg?1517522255",
+        "city": "Pamona",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/869/thumb/HPdesign1.jpg?1517522254",
+        "name": "HackPoly",
+        "state": "CA",
+        "website": "http://hackpoly.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/834/thumb/innovation-exterior.png?1513116744",
+        "city": "Hamilton",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/834/thumb/ORANGE_ON_BLUE__1_.png?1513116743",
+        "name": "Hack the Hammer",
+        "state": "ON",
+        "website": "http://hackthehammer.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/811/thumb/makeharvardsplash.jpg?1510676164",
+        "city": "Boston",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/811/thumb/Make_Harvard_Logo_Better.jpg?1510676163",
+        "name": "MakeHarvard ",
+        "state": "MA",
+        "website": "http://makeharvard.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/809/thumb/mchackmlh_splash_300.png?1510498820",
+        "city": "Montreal",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/809/thumb/mchackbird_logo_100.png?1510498820",
+        "name": "McHacks V",
+        "state": "Canada",
+        "website": "https://mchacks.ca/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/852/thumb/MLH_Splash.png?1515683598",
+        "city": "San Luis Obispo",
+        "dateEnd": "2018-02-04",
+        "dateStart": "2018-02-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/852/thumb/MLH_Logo.png?1515683598",
+        "name": "SLO Hacks",
+        "state": "CA",
+        "website": "https://www.slohacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/854/thumb/rsz_screen_shot_2017-12-24_at_120357_pm.png?1515684206",
+        "city": "Chapel Hill",
+        "dateEnd": "2018-02-11",
+        "dateStart": "2018-02-09",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/854/thumb/pearl_hacks_thumbnail.png?1515684205",
+        "name": "Pearl Hacks 2018",
+        "state": "NC",
+        "website": "http://www.pearlhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/815/thumb/derbyhacks_splash.jpg?1510690346",
+        "city": "Louisville",
+        "dateEnd": "2018-02-11",
+        "dateStart": "2018-02-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/815/thumb/derbyhacks_logo.png?1510690346",
+        "name": "DerbyHacks 3",
+        "state": "KY",
+        "website": "http://derbyhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/850/thumb/t9_splash.png?1515448934",
+        "city": "Boulder",
+        "dateEnd": "2018-02-11",
+        "dateStart": "2018-02-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/850/thumb/t9_logo.png?1515448934",
+        "name": "T9Hacks",
+        "state": "CO",
+        "website": "http://www.t9hacks.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/843/thumb/uncommonsplash.png?1514921017",
+        "city": "Chicago",
+        "dateEnd": "2018-02-11",
+        "dateStart": "2018-02-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/843/thumb/uncommonlogo_padded_100px_dark.png?1514921017",
+        "name": "Uncommon Hacks",
+        "state": "IL",
+        "website": "https://uncommonhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/851/thumb/mlh-season-splash.png?1515449406",
+        "city": "Rochester",
+        "dateEnd": "2018-02-11",
+        "dateStart": "2018-02-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/851/thumb/mlh-season-wic_hacks_logo.jpg?1515449406",
+        "name": "WiCHacks",
+        "state": "NY",
+        "website": "https://wichacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/831/thumb/cewit_splash.png?1512577728",
+        "city": "Stony Brook",
+        "dateEnd": "2018-02-18",
+        "dateStart": "2018-02-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/831/thumb/cewit_logo.png?1512577728",
+        "name": "Hack @ CEWIT",
+        "state": "NY",
+        "website": "http://hack.cewit.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/866/thumb/25360127_10209945952381182_634782799_n_%281%29.jpg?1516899984",
+        "city": "Cleveland",
+        "dateEnd": "2018-02-18",
+        "dateStart": "2018-02-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/866/thumb/hackCWRULogo100x100_%281%29.png?1516899984",
+        "name": "HackCWRU V   ",
+        "state": "OH",
+        "website": "http://hack.cwru.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/853/thumb/Treehacks-Logo-NoText-300-300-02.png?1515683901",
+        "city": "Stanford",
+        "dateEnd": "2018-02-18",
+        "dateStart": "2018-02-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/853/thumb/treehacks-red-logo-no-text-100x100ish.png?1515683900",
+        "name": "Treehacks",
+        "state": "CA",
+        "website": "http://www.treehacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/856/thumb/MLH300x300.png?1515709124",
+        "city": "Blacksburg",
+        "dateEnd": "2018-02-18",
+        "dateStart": "2018-02-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/856/thumb/VTHacks100x100.png?1515709124",
+        "name": "VTHacks V",
+        "state": "VA",
+        "website": "https://vthacks.com"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/830/thumb/mlhSplash.jpg?1512514155",
+        "city": "Ottawa",
+        "dateEnd": "2018-02-18",
+        "dateStart": "2018-02-17",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/830/thumb/e.png?1512514154",
+        "name": "uOttaHack",
+        "state": "ON",
+        "website": "https://web.archive.org/web/20180304233852/https://uottahack.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/732/thumb/splash2.png?1503503503",
+        "city": "Toronto",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/732/thumb/htv_logo_100.png?1503503503",
+        "name": "Hack the Valley",
+        "state": "ON",
+        "website": "https://hackvalley2.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/792/thumb/athena_splash.png?1509063263",
+        "city": "Los Angeles",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/792/thumb/athena_logo.png?1509063263",
+        "name": "AthenaHacks",
+        "state": "CA",
+        "website": "http://athenahacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/848/thumb/hackcu_banner.jpg?1515168910",
+        "city": "Boulder",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/848/thumb/hackcu_logo_small.png?1515168910",
+        "name": "HackCU IV",
+        "state": "CO",
+        "website": "https://hackcu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/837/thumb/makecu_splash.jpg?1513119788",
+        "city": "New York",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/837/thumb/makecu_logo.png?1513119788",
+        "name": "MAKECU",
+        "state": "NY",
+        "website": "https://www.makecu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/849/thumb/prof_splash.png?1515447283",
+        "city": "Glassboro",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/849/thumb/prof_logo.png?1515447283",
+        "name": "ProfHacks 2018",
+        "state": "NJ",
+        "website": "http://profhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/820/thumb/steelhacks_splash_chromatic_300_x_300.jpg?1510695950",
+        "city": "Pittsburgh",
+        "dateEnd": "2018-02-25",
+        "dateStart": "2018-02-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/820/thumb/steelhacks_layered_more_100_x_100.png?1510695950",
+        "name": "SteelHacks",
+        "state": "PA",
+        "website": "http://steelhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/691/thumb/mlh-splash__recovered__1024.png?1500055957",
+        "city": "Tallahassee",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/691/thumb/mlh-logo.png?1500055957",
+        "name": "HackFSU",
+        "state": "FL",
+        "website": "https://www.hackfsu.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/835/thumb/MLH_300px.png?1513119491",
+        "city": "Pasadena",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-02",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/835/thumb/Hacktech_100px.png?1513119487",
+        "name": "Hacktech",
+        "state": "CA",
+        "website": "http://hacktech.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/873/thumb/pullman-wa.jpg?1518130274",
+        "city": "Pullman",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/873/thumb/crimsoncode-logo.png?1518130274",
+        "name": "CrimsonCode",
+        "state": "WA",
+        "website": "http://hackathon.eecs.wsu.edu/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/855/thumb/disrputdsitrict.png?1515684771",
+        "city": "Washington",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/855/thumb/dtd.png?1515686191",
+        "name": "Disrupt The District  ",
+        "state": "D.C",
+        "website": "http://disruptdc.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/695/thumb/OK300x300splash.png?1500345654",
+        "city": "Norman",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/695/thumb/OK100x100.png?1500345654",
+        "name": "Hacklahoma",
+        "state": "OK",
+        "website": "https://www.hacklahoma.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/839/thumb/revuc_splash.png?1513190421",
+        "city": "Cincinnati",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/839/thumb/revuc_logo.png?1513190420",
+        "name": "RevolutionUC",
+        "state": "OH",
+        "website": "https://revolutionuc.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/857/thumb/sh-mlh_splash.jpg?1516305915",
+        "city": "Waterloo",
+        "dateEnd": "2018-03-04",
+        "dateStart": "2018-03-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/857/thumb/sh-mlh_logo.jpg?1516305915",
+        "name": "StarterHacks",
+        "state": "ON",
+        "website": "https://starterhacks.ca/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/748/thumb/HackTJ_Splash_300.png?1504719771",
+        "city": "Alexandria",
+        "dateEnd": "2018-03-11",
+        "dateStart": "2018-03-10",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/748/thumb/HackTJ_Logo_100.png?1504719770",
+        "name": "HackTJ",
+        "state": "VA",
+        "website": "https://hacktj.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/838/thumb/sf_hacks_splash.png?1513119897",
+        "city": "San Francisco",
+        "dateEnd": "2018-03-18",
+        "dateStart": "2018-03-17",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/838/thumb/sf_hacks_logo.png?1513119897",
+        "name": "SF Hacks",
+        "state": "CA",
+        "website": "http://sfhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/870/thumb/hackgsu_mlh_splash_300.png?1517533698",
+        "city": "Atlanta",
+        "dateEnd": "2018-03-25",
+        "dateStart": "2018-03-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/870/thumb/hackgsu_mlh_logo_100.png?1517533698",
+        "name": "HackGSU",
+        "state": "GA",
+        "website": "http://hackgsu.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/840/thumb/theSplit.jpg?1515699366",
+        "city": "Ames",
+        "dateEnd": "2018-03-25",
+        "dateStart": "2018-03-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/840/thumb/HackSquirrel_Spring2018_100px.jpg?1515699366",
+        "name": "HackISU",
+        "state": "IA",
+        "website": "http://hackisu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/882/thumb/HackNYU-Splash-300x300.jpg?1519317638",
+        "city": "Brooklyn",
+        "dateEnd": "2018-03-25",
+        "dateStart": "2018-03-23",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/882/thumb/Logo-Square-Gray-100x100.png?1519317638",
+        "name": "HackNYU",
+        "state": "NY",
+        "website": "http://hacknyu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/858/thumb/Copy_of_20170227-DSC_5149.jpg?1516378014",
+        "city": "Charlottesville",
+        "dateEnd": "2018-03-25",
+        "dateStart": "2018-03-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/858/thumb/HackUVA_Logo_smol.png?1516378013",
+        "name": "Hack.UVA",
+        "state": "VA",
+        "website": "http://hackuva.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/836/thumb/los_altos_splash.png?1513119654",
+        "city": "Los Altos",
+        "dateEnd": "2018-03-25",
+        "dateStart": "2018-03-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/836/thumb/los_altos_logo.png?1513119654",
+        "name": "Los Altos Hacks III",
+        "state": "CA",
+        "website": "https://www.losaltoshacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/876/thumb/hackprinceton_splash.png?1518725996",
+        "city": "Princeton",
+        "dateEnd": "2018-04-01",
+        "dateStart": "2018-03-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/876/thumb/hackprinceton_logo.png?1518725996",
+        "name": "HackPrinceton",
+        "state": "NJ",
+        "website": "https://www.hackprinceton.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/875/thumb/300x300.png?1518646063",
+        "city": "Los Angeles",
+        "dateEnd": "2018-04-01",
+        "dateStart": "2018-03-30",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/875/thumb/100x100.png?1518646062",
+        "name": "LA Hacks  ",
+        "state": "CA",
+        "website": "https://lahacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/871/thumb/splash.png?1518016649",
+        "city": "Ottawa",
+        "dateEnd": "2018-04-01",
+        "dateStart": "2018-03-31",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/871/thumb/cuhacking_thumb.png?1518016648",
+        "name": "CUHacking",
+        "state": "ON",
+        "website": "http://cuhacking.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/872/thumb/bitcamp_splash.png?1518127084",
+        "city": "College Park",
+        "dateEnd": "2018-04-08",
+        "dateStart": "2018-04-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/872/thumb/bitcamp_logo.png?1518127083",
+        "name": "Bitcamp 2018",
+        "state": "MD",
+        "website": "http://bit.camp/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/884/thumb/Splash_%281%29.png?1519830601",
+        "city": "Ames",
+        "dateEnd": "2018-04-07",
+        "dateStart": "2018-04-06",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/884/thumb/CodeCamp_logo100x100.png?1519830601",
+        "name": "Digital Women Code Camp",
+        "state": "IA",
+        "website": "http://digitalwomen.ece.iastate.edu/codecamp.html"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/887/thumb/hackny_mlh_splash.jpg?1519841149",
+        "city": "New York",
+        "dateEnd": "2018-04-08",
+        "dateStart": "2018-04-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/887/thumb/hackNY_Square_Red_Logo100px.png?1519841149",
+        "name": "hackNY",
+        "state": "NY",
+        "website": "https://hackny-s2018.devpost.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/886/thumb/MLH_splash_%281%29.jpg?1519838392",
+        "city": "University Park",
+        "dateEnd": "2018-04-08",
+        "dateStart": "2018-04-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/886/thumb/MLH_logo1_%281%29.jpg?1519838391",
+        "name": "HackPSU",
+        "state": "PA",
+        "website": "https://hackpsu.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/700/thumb/Lingsplash.jpg?1500765719",
+        "city": "Fremont",
+        "dateEnd": "2018-04-08",
+        "dateStart": "2018-04-07",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/700/thumb/LingScreenshot_2017-06-22_14.45.37.png?1500765718",
+        "name": "LingHacks",
+        "state": "CA",
+        "website": "http://linghacks.weebly.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/828/thumb/perkinshacks_splash.png?1512500768",
+        "city": "Watertown",
+        "dateEnd": "2018-04-14",
+        "dateStart": "2018-04-13",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/828/thumb/perkinshacks-100x100.png?1512079711",
+        "name": "PerkinsHacks",
+        "state": "MA",
+        "website": "http://www.perkins.org/get-involved/events/perkins-hacks"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/897/thumb/mlh-splash.png?1521055459",
+        "city": "Evanston",
+        "dateEnd": "2018-04-15",
+        "dateStart": "2018-04-14",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/897/thumb/mlh-logo.png?1521055459",
+        "name": "BuildHer",
+        "state": "IL",
+        "website": "http://buildher.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/898/thumb/splash_%282%29.png?1521136841",
+        "city": "Long Beach",
+        "dateEnd": "2018-04-22",
+        "dateStart": "2018-04-21",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/898/thumb/icon_AH__1_.png?1521136840",
+        "name": "BeachHacks",
+        "state": "CA",
+        "website": "http://beachhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/881/thumb/citrushack300x300-01.png?1519222858",
+        "city": "Riverside",
+        "dateEnd": "2018-04-22",
+        "dateStart": "2018-04-21",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/881/thumb/CitrusHackIcon2017.png?1519222858",
+        "name": "Citrus Hack",
+        "state": "CA",
+        "website": "http://citrushack.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/896/thumb/HackRU-Spring-2018-MLH-Splash-Image.jpg?1520959755",
+        "city": "New Brunswick",
+        "dateEnd": "2018-04-22",
+        "dateStart": "2018-04-21",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/896/thumb/HackRU-S18-Logo-100x100.jpg?1520959755",
+        "name": "HackRU",
+        "state": "NJ",
+        "website": "https://hackru.org//"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/885/thumb/Artboard_1yerr.jpg?1522177361",
+        "city": "Baltimore",
+        "dateEnd": "2018-04-29",
+        "dateStart": "2018-04-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/885/thumb/Artboard_1Logo2.jpg?1519831553",
+        "name": "HackUMBC",
+        "state": "MD",
+        "website": "http://hackumbc.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/000/895/thumb/MLH.png?1520863819",
+        "city": "Windsor",
+        "dateEnd": "2018-04-29",
+        "dateStart": "2018-04-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/000/895/thumb/massey_logo_%281%29.png?1520890912",
+        "name": "MasseyHacks IV",
+        "state": "ON",
+        "website": "https://masseyhacks.ca/"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/200/thumb/NL_Monty_Fundidora33.jpg?1557498954",
+        "city": "Monterrey",
+        "dateEnd": "2019-08-25",
+        "dateStart": "2019-08-24",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/200/thumb/logo_HackMTY_square.jpg?1557498954",
+        "name": "HackMTY",
+        "state": "MX",
+        "website": "https://hackmty.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/202/thumb/__MLH_Banner__300_x_300_.png?1557514832",
+        "city": "Miami",
+        "dateEnd": "2019-09-22",
+        "dateStart": "2019-09-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/202/thumb/__MLH_Icon__100_x_100_.png?1557514832",
+        "name": " ShellHacks",
+        "state": "FL",
+        "website": "https://shellhacks.net/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/201/thumb/sunhacksBG.png?1557514618",
+        "city": "Tempe",
+        "dateEnd": "2020-09-22",
+        "dateStart": "2019-09-20",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/201/thumb/sunhacks_icon_web__1_.jpg?1557514617",
+        "name": "sunhacks",
+        "state": "AZ",
+        "website": "https://sunhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/203/thumb/grizzbuilding.png?1557515135",
+        "city": "Rochester",
+        "dateEnd": "2019-09-29",
+        "dateStart": "2019-09-28",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/203/thumb/grizzhacks4-logo.png?1557515135",
+        "name": "GrizzHacks 4",
+        "state": "MI",
+        "website": "https://grizzhacks.com/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/204/thumb/mlh-hackutd-VI-splash-bgcolorfix.png?1557516095",
+        "city": "Richardson",
+        "dateEnd": "2019-11-10",
+        "dateStart": "2019-11-09",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/204/thumb/mlh-hackutd-VI-splash-profpiccolorifx.png?1557516095",
+        "name": "HackUTD Fall 2019",
+        "state": "TX",
+        "website": "http://www.hackutd.co/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/205/thumb/BostonHacks_EventBackground_%282%29.jpg?1557516306",
+        "city": "Boston",
+        "dateEnd": "2019-11-17",
+        "dateStart": "2019-11-16",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/205/thumb/BostonHacks_EventLogo_%282%29.jpg?1557516306",
+        "name": " BostonHacks",
+        "state": "MA",
+        "website": "https://www.bostonhacks.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/207/thumb/Canyon_Background.png?1557516727",
+        "city": "Tucson",
+        "dateEnd": "2020-01-19",
+        "dateStart": "2020-01-17",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/207/thumb/HackArizona_logo-01.png?1557516727",
+        "name": "Hack Arizona",
+        "state": "AZ",
+        "website": "http://hackarizona.org/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/208/thumb/MLH_Background_%281%29.png?1557522014",
+        "city": "Rochester",
+        "dateEnd": "2020-02-09",
+        "dateStart": "2020-02-08",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/208/thumb/BH6_Logo.png?1557522013",
+        "name": "Brickhack",
+        "state": "NY",
+        "website": "https://brickhack.io/"
+    },
+    {
+        "backdrop": "https://s3.amazonaws.com/assets.mlh.io/events/splashes/000/001/198/thumb/Havener_Center_2_%281%29.png?1557420669",
+        "city": "Rolla",
+        "dateEnd": "2020-04-05",
+        "dateStart": "2020-04-03",
+        "icon": "https://s3.amazonaws.com/assets.mlh.io/events/logos/000/001/198/thumb/PickHacks_Logo.png?1557420668",
+        "name": "PickHacks",
+        "state": "MO",
+        "website": "https://pickhacks.io/"
+    }
+]
