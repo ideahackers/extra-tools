@@ -3,7 +3,7 @@ Fetches all Major League Hacking affiliated
 hackathons for a certain year.
 
 Command line example:
-python mlh_gethackathons <year>
+python mlh_gethackathons.py <year>
 
 Dependancies: AKA run the command below before running first time.
 pip install beautifulsoup4 lxml requests
