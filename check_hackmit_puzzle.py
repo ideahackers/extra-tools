@@ -8,26 +8,19 @@ Author: Wyatt Phillips
 import requests, bs4
 import time, datetime
 import os
+from pushsafer import init, Client
 
 def print_wtime(text):
     print(datetime.datetime.fromtimestamp(time.time()).strftime('[%Y-%m-%d %I:%M %p]: ') + text)
 
 url = 'https://hackmit.org/'
 string_watch = "<!-- nice attempt, but puzzle isn't up yet -->"
-update_time = 5
+update_time = 60
 
 event_fire_attempt = 0
 event_fired = False
 
-that_text = "nope"
-
 while not event_fired:
-
-    try:
-        that_text = os.environ['THAT_TEXT']
-        break
-    except:
-        print('Warning: Not all environmental vars are set.')
 
     res = requests.get(url)
 
@@ -37,8 +30,10 @@ while not event_fired:
         print_wtime('failed to retrieve webpage (' + str(res.status_code) + ')... attempt #' + str(event_fire_attempt))
         time.sleep(update_time)
     elif not string_watch in res.text:
-        event_fired = True
         print_wtime('Event Fired: String detected at ' + url)
+        event_fired = True
+        init("9pF4clfsIC4DQGrQQgul")
+        Client("").send_message("A puzzle has ben uploaded to HackMIT!", "Event Fired!", "17746", "26", "5", "3", "https://hackmit.org/", "HackMIT", "0", "1", "120", "1200", "0", "", "", "")
     else:
-        print_wtime('no state change detected... attempt #' + str(event_fire_attempt) + ' .. ' + that_text)
+        print_wtime('no state change detected... attempt #' + str(event_fire_attempt))
         time.sleep(update_time)
